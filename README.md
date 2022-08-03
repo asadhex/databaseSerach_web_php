@@ -19,9 +19,6 @@ Project is intended for large database users who desires a fast way to find thei
 
 ### Used By
 
-[Kodamera AB](https://www.kodamera.se "Kodamera Webbyrå")
-
-[TrueWoW Community](https://www.truewow.org "TrueWoW Community")
 
 > Want to be in this very cool list? Make a Pull Request!
 
@@ -38,4 +35,4 @@ It's **highly** recommended to **never** use this project in a release as it is 
 
 ## License
 
-[GPL-3.0](LICENSE) © [PatricNox](https://PatricNox.info)
+[GPL-3.0](LICENSE)
