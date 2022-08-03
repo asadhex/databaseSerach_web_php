@@ -34,7 +34,7 @@ It's **highly** recommended to **never** use this project in a release as it is 
 > SQL Injections can destroy your whole server/website!
 
 # Thank You!
-> "What am i living for, if not for you?" - Johnny Preston
+> "What am i living for, if not for you?" - Asad Mehar AKA @axadhex
 
 ## License
 
